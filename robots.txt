@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-sp4fac.mawartoto88uad.cfd/sitemap.xml
